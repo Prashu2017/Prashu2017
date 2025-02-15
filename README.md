@@ -31,6 +31,10 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashu2017&show_icons=true&count_private=true&hide=prs&theme=blue)
 
+## 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Prashu2017)
+
+
 ## 🥇 Achievements
 
 - 🏆 **Top Contributor** at [Open Source Project](https://github.com/opensource-project).
