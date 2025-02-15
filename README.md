@@ -34,6 +34,10 @@
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Prashu2017)
 
+## 🛠️ Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashu2017&layout=compact&langs_count=8&theme=radical)
+
 
 ## 🥇 Achievements
 
