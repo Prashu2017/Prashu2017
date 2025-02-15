@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Prashant Kumar!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Prashu2017)
+
+
 🔹 **Full-stack Developer** | **Open Source Enthusiast** | **Tech Educator**  
 🔹 Passionate about building scalable applications, contributing to the open-source community, and sharing knowledge with fellow devs.
 
