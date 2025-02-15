@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=blue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashu2017&show_icons=true&count_private=true&hide=prs&theme=blue)
 
 ## 🥇 Achievements
 
