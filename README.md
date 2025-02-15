@@ -5,14 +5,14 @@
 
 ## 🚀 About Me
 
-👨‍💻 I’m currently focused on building full-stack applications using **React**, **Node.js**, and **GraphQL**.  
-🌱 I’m exploring **Web3** technologies and **AI/ML** in my free time.  
-🔧 I love experimenting with new tools and frameworks that help solve complex problems.   
-👯 I’m always up for a **tech discussion** or collaborating on exciting **open-source** projects.
-🤔 I’m looking for help with **Cloud Computing**.
-💬 Ask me about **Software Engineering, Open-Source, or anything tech-related!**.
-📫 How to reach me: [prashantkishoresharma@gmail.com](mailto:prashantkishoresharma@gmail.com).
-⚡ Fun fact: I love solving coding challenges and building useful tools!.
+- 👨‍💻 I’m currently focused on building full-stack applications using **React**, **Node.js**, and **GraphQL**.  
+- 🌱 I’m exploring **Web3** technologies and **AI/ML** in my free time.
+- 🔧 I love experimenting with new tools and frameworks that help solve complex problems.
+- 👯 I’m always up for a **tech discussion** or collaborating on exciting **open-source** projects.
+- 🤔 I’m looking for help with **Cloud Computing**.
+- 💬 Ask me about **Software Engineering, Open-Source, or anything tech-related!**.
+- 📫 How to reach me: [prashantkishoresharma@gmail.com](mailto:prashantkishoresharma@gmail.com).
+- ⚡ Fun fact: I love solving coding challenges and building useful tools!.
 
 ## 🛠️ My Tech Stack
 
